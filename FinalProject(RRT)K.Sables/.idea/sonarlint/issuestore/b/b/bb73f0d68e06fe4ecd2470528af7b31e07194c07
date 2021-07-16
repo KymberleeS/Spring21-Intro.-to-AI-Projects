@@ -1,0 +1,23 @@
+
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(—ú’“ùÿÿÿÿ8½¹Ò¡‰/
+K
+java:S2140@")Use "java.util.Random.nextInt()" instead.(«Îç÷üÿÿÿÿ8¦ÈÚ™Š/
+T
+java:S1197"8Move the array designator from the variable to the type.(òì“z8¯•ŒÌˆ/
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(èä’©8“Ä†¢‰/
+K
+java:S2140?")Use "java.util.Random.nextInt()" instead.(ÍÊÜ»şÿÿÿÿ8¦ÈÚ™Š/
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(—ú’“ùÿÿÿÿ8½¹Ò¡‰/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¹ïšö8¦Š¢‰/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¬›»¼øÿÿÿÿ8¯•ŒÌˆ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(šŞùåıÿÿÿÿ8¯•ŒÌˆ/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ã„«ùşÿÿÿÿ8¯•ŒÌˆ/
+F
+java:S2140")Use "java.util.Random.nextInt()" instead.(èä’©8“Ä†¢‰/

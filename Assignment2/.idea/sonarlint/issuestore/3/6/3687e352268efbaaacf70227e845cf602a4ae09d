@@ -1,0 +1,33 @@
+
+F
+java:S1604Ê"(Make this anonymous inner class a lambda(ˆ¯Ã†8İ²Ö¬ÿ.
+Z
+java:S1197("8Move the array designator from the variable to the type.(…¤«¦ùÿÿÿÿ8»†Ï©ÿ.
+U
+java:S11976"8Move the array designator from the variable to the type.(ÃÎñ¶8àûóªÿ.
+Z
+java:S1197B"8Move the array designator from the variable to the type.(Ëş…Ìùÿÿÿÿ8ş¹üªÿ.
+o
+java:S1104
+"RMake budget a static final constant or non-public and provide accessors if needed.(‹õµ8–èç¨ÿ.
+T
+java:S1197]"8Move the array designator from the variable to the type.( ğ–e8–©«ÿ.
+Z
+java:S1197)"8Move the array designator from the variable to the type.(Íéª€úÿÿÿÿ8»†Ï©ÿ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¹ïšö8äÀÓ«ÿ.
+Z
+java:S1197\"8Move the array designator from the variable to the type.(şô‡„şÿÿÿÿ8–©«ÿ.
+U
+java:S1197P"8Move the array designator from the variable to the type.(Òú°Ã8Äå¤«ÿ.
+U
+java:S11975"8Move the array designator from the variable to the type.(¶Õ§¨8àûóªÿ.
+R
+java:S1481}"0Remove this unused "currentCost" local variable.(¦­ƒ´øÿÿÿÿ8äÀÓ«ÿ.
+U
+java:S1197O"8Move the array designator from the variable to the type.(Úñåà8Äå¤«ÿ.
+U
+java:S1197C"8Move the array designator from the variable to the type.(¡ »Ó8ş¹üªÿ.
+M
+java:S3740”"/Provide the parametrized type for this generic.(ª› à8İ²Ö¬ÿ.
+{	java:S135¦"YReduce the total number of break and continue statements in this loop to use at most one.(¸“™ƒûÿÿÿÿ8òĞ¬ÿ.

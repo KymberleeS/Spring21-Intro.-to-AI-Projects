@@ -1,0 +1,24 @@
+
+T
+java:S1197"8Move the array designator from the variable to the type.(òì“z8ªô·ñ‰/
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¹ïšö8ªô·ñ‰/
+F
+java:S2140"")Use "java.util.Random.nextInt()" instead.(Ÿ¢‘Ç8÷Şó‰/
+U
+java:S1197"8Move the array designator from the variable to the type.(‡à§“8ªô·ñ‰/
+Z
+java:S1197("8Move the array designator from the variable to the type.(ª¢ÄÒúÿÿÿÿ8ŞÍ’ó‰/
+K
+java:S2140S")Use "java.util.Random.nextInt()" instead.(ûˆ‹ğüÿÿÿÿ8ªô·ñ‰/
+u	java:S135M"YReduce the total number of break and continue statements in this loop to use at most one.(®ôóœ8Ü€Ûó‰/
+F
+java:S2140R")Use "java.util.Random.nextInt()" instead.(½¾ü´8ªô·ñ‰/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¬›»¼øÿÿÿÿ8ªô·ñ‰/
+Z
+java:S1197%"8Move the array designator from the variable to the type.(„£ÛÇüÿÿÿÿ8ŞÍ’ó‰/
+T
+java:S1197"8Move the array designator from the variable to the type.(Êºõu8ªô·ñ‰/
+F
+java:S2140"")Use "java.util.Random.nextInt()" instead.(Ÿ¢‘Ç8÷Şó‰/

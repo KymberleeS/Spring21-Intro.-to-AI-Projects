@@ -1,0 +1,45 @@
+
+U
+java:S1197s"8Move the array designator from the variable to the type.(á¦§¸8°±€àı.
+V
+java:S1197•"8Move the array designator from the variable to the type.(Ñ¬÷Í8°±€àı.
+o
+java:S1104
+"RMake budget a static final constant or non-public and provide accessors if needed.(‹õµ8Êåğş.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¹ïšö8ßŸ°Íş.
+Z
+java:S1197;"8Move the array designator from the variable to the type.(ÿ´‹¤úÿÿÿÿ8°±€àı.
+U
+java:S1197H"8Move the array designator from the variable to the type.(­¥Û¯8°±€àı.
+F
+java:S1604†"(Make this anonymous inner class a lambda(ˆ¯Ã†8Ä¶§ÿ.
+V
+java:S1197‚"8Move the array designator from the variable to the type.(ã¡¢ã8°±€àı.
+{	java:S135â"YReduce the total number of break and continue statements in this loop to use at most one.(¸“™ƒûÿÿÿÿ8Åõ¶§ÿ.
+Z
+java:S1197<"8Move the array designator from the variable to the type.(Ëæ‘¸şÿÿÿÿ8°±€àı.
+U
+java:S1197d"8Move the array designator from the variable to the type.(Ó²ç8°±€àı.
+V
+java:S1197–"8Move the array designator from the variable to the type.(€°¸û8°±€àı.
+U
+java:S1197,"8Move the array designator from the variable to the type.(ÚÅ¹ı8°±€àı.
+S
+java:S1481¼"0Remove this unused "currentCost" local variable.(¦­ƒ´øÿÿÿÿ8Äùµ§ÿ.
+U
+java:S1197I"8Move the array designator from the variable to the type.(µ¨öö8°±€àı.
+Z
+java:S1197U"8Move the array designator from the variable to the type.(¢ã‰æøÿÿÿÿ8°±€àı.
+Z
+java:S1197V"8Move the array designator from the variable to the type.(°Ñª©ûÿÿÿÿ8°±€àı.
+M
+java:S3740ä"/Provide the parametrized type for this generic.(ª› à8Ä¶§ÿ.
+Z
+java:S1197-"8Move the array designator from the variable to the type.(ê›Îøÿÿÿÿ8°±€àı.
+Z
+java:S1197t"8Move the array designator from the variable to the type.(Š¿¶¯ÿÿÿÿÿ8°±€àı.
+V
+java:S1197ƒ"8Move the array designator from the variable to the type.(çŸ…è8°±€àı.
+Z
+java:S1197e"8Move the array designator from the variable to the type.(Û÷¶şÿÿÿÿ8°±€àı.
